@@ -1,6 +1,6 @@
 # Bartender's Guide to the Galaxy
 
-#### "Team Week Project for Epicodus Coding School following the completion of Intro to Programming & Intermediate JavaScript, 12.03.2020"
+#### Team Week Project for Epicodus Coding School following the completion of Intro to Programming & Intermediate JavaScript, 12.03.2020
 
 #### By _**Jeff Chiu, Bess Campbell, Kevin Kirkley, Mandy Otero, Tawnee Harris, Svea Wade, and Danielle Thompson**_
 
