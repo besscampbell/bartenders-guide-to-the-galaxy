@@ -26,7 +26,7 @@ Software Requirements
 * A code editor such as VS Code
 
 Open by Downloading or Cloning
-* Navigate to <https://github.com/kevinkirkl3y/bartenders-guide-to-the-galaxy.git>
+* Navigate to <https://github.com/besscampbell/bartenders-guide-to-the-galaxy>
 * Download this repository to your computer by clicking the green Code button and 'Download Zip'
 * Or clone the repository
 
