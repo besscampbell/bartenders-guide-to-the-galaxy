@@ -25,6 +25,9 @@ Software Requirements
 * An internet browser of your choice
 * A code editor such as VS Code
 
+Open in browser
+* Paste <https://besscampbell.github.io/bartenders-guide-to-the-galaxy/> into the browser or follow this link [Bartender's Guide to the Galaxy](https://besscampbell.github.io/bartenders-guide-to-the-galaxy/)
+
 Open by Downloading or Cloning
 * Navigate to <https://github.com/besscampbell/bartenders-guide-to-the-galaxy>
 * Download this repository to your computer by clicking the green Code button and 'Download Zip'
